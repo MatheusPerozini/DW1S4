@@ -1,0 +1,37 @@
+table,
+td {
+    border: 1px solid black;
+}
+
+thead {
+    text-align: center;
+}
+
+.td1 {
+    background-color: green;
+    text-align: center;
+}
+
+.td2 {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+#table-black {
+    background-color: black;
+    color: white;
+}
+
+caption {
+    color: black;
+}
+
+#table-black .td1 {
+    background-color: gray;
+    text-align: center;
+}
+
+#table-black .td2 {
+    background-color: lightgray;
+    text-align: center;
+}
